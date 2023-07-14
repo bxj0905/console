@@ -38,7 +38,7 @@ This is optional too, we use `make` to reduce hand work, but it's totally ok wit
 
 Clone the repository, and run `yarn && yarn build`
 ```sh
-git clone https://github.com/kubesphere/console.git
+git clone https://github.com/bxj0905/console.git
 cd console/
 yarn && yarn build
 npm run serve
